@@ -1,7 +1,5 @@
-matplotlib==3.2.1
 numpy
 pandas
 Pillow==9.1.1
-seaborn==0.9.0
 streamlit==1.10.0
 torch
